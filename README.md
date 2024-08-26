@@ -1,0 +1,1 @@
+A keylogger, short for "keystroke logger," is a type of software or hardware device designed to capture and record the keystrokes made by a user on their computer or mobile device. Keyloggers can be used for various purposes, ranging from legitimate to malicious. Understanding how keyloggers work and how they can be used is essential, especially in the context of cybersecurity.
